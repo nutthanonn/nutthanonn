@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="200" height="200" />
+<img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="200" />
 </p>
 
 > Skill
