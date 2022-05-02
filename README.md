@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./fish.jpeg" width="100%" height="240" />
+<img src="./fish.jpeg" width="100%" height="100%" />
 </p>
 
 > Skill
