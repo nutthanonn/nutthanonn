@@ -35,7 +35,3 @@
   </kbd>
 
 </p>
-
-```rust
-fn hello() -> String {"Hello World!".to_string()}
-```
