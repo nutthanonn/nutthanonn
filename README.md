@@ -24,6 +24,8 @@
     &nbsp;
     <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png?20190307203525">
     &nbsp;
+    <img height="20" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png">
+    &nbsp;
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     &nbsp;
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
