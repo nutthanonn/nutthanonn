@@ -2,10 +2,15 @@
 <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300" height="200" />
 </p>
 
-> Skill
+```
+  🌸
+    🧍 🌸 🤺
+ 🌸
+
+```
 
 <details>
-  <summary>language and tool</summary>
+  <summary>Skill</summary>
 
 <p style="display: inline-block;">
  <kbd>
